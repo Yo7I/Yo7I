@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## <!--
 <h1 align="center">Hi 👋, I'm Yo</h1>
 <h3 align="center">I am a computer engineering student at Rangsit University in Bangkok, Thailand.</h3>
 
