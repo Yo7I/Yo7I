@@ -1,5 +1,4 @@
-## <!--
-<h1 align="center">Hi 👋, I'm Yo</h1>
+## <h1 align="center">Hi 👋, I'm Yo</h1>
 <h3 align="center">I am a computer engineering student at Rangsit University in Bangkok, Thailand.</h3>
 
 <p align="left"> <a href="https://twitter.com/kklong94002" target="blank"><img src="https://img.shields.io/twitter/follow/kklong94002?logo=twitter&style=for-the-badge" alt="kklong94002" /></a> </p>
