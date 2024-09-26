@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Yo</h1>
 <h3 align="center">I am a computer engineering student at Rangsit University in Bangkok, Thailand.</h3>
 
-<p align="left"> <a href="https://twitter.com/kklong94002" target="blank"><img src="https://img.shields.io/twitter/follow/kklong94002?logo=twitter&style=for-the-badge" alt="kklong94002" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KKa1df" target="blank"><img src="https://img.shields.io/twitter/follow/KKa1df?logo=twitter&style=for-the-badge" alt="KKa1df" /></a> </p>
 
 - 🌱 I’m currently learning **Create and manage model-driven apps with Power Apps and Dataverse**
 
